@@ -8,7 +8,7 @@ All results and stats are split by season an unique file is also provided with a
 
 | Season    | Serie A | Bundesliga | Premier League |
 | --------- | ------- | ---------- | -------------- |
-| 1986/1987 | [x]     |            |                |
+| 1986/1987 | [ x ]   |            |                |
 | 1987/1988 | [x]     |            |                |
 | 1988/1989 | [x]     |            |                |
 | 1989/1990 | [x]     |            |                |
