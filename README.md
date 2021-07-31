@@ -2,12 +2,18 @@
 
 This contains Serie A, Bundesliga and Premier League results and stats, craped from .
 
-Data are available in the following format: CSV, JSON and RData (R language).
+Data are available in the following format: 
 
-All results and stats are split by season an unique file is also provided with all seasons.
+- [x] CSV
+- [x] JSON
+- [x] RData (R language)
 
-| Season    | Serie A            | Bundesliga         | Premier League     |
-| --------- | ------------------ | ------------------ | ------------------ |
+All results and stats are split by season an unique file ('formula_1') is also provided with all seasons.
+
+## Seasons
+
+| Season    |      Serie A       |     Bundesliga     |   Premier League   |
+| --------- | :----------------: | :----------------: | :----------------: |
 | 1986/1987 | :heavy_check_mark: |                    |                    |
 | 1987/1988 | :heavy_check_mark: |                    |                    |
 | 1988/1989 | :heavy_check_mark: |                    |                    |
@@ -43,3 +49,5 @@ All results and stats are split by season an unique file is also provided with a
 | 2018/2019 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 2019/2020 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 2020/2021 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+
+## Data features
