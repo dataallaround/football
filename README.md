@@ -8,7 +8,7 @@ Data are available in the following format:
 - [x] JSON
 - [x] RData (R language)
 
-All results and stats are split by season an unique file ('formula_1') is also provided with all seasons.
+All results and stats are split by season and an unique file ('serie_a', 'premier_league', 'bundesliga') is also provided with all seasons.
 
 ## Seasons
 
